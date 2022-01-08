@@ -1,0 +1,15 @@
+Git::
+https://github.com/git-guides/install-git
+
+Github Desktop (for ui)
+https://desktop.github.com/
+
+VSCode
+https://code.visualstudio.com/learn/get-started/basics
+
+Solidity extension
+https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity
+
+Node installation 
+https://nodejs.org/ 
+(Got some issue while doing chocolat. This needs to be checked)
